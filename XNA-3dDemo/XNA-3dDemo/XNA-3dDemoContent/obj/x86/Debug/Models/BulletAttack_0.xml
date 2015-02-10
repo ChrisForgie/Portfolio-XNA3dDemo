@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Box001</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Chris\Documents\GitHub\Gp3Coursework\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\Models\BulletAttack.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>2.54 0 0 0 0 1.55530138E-16 -2.54 0 0 2.54 1.55530138E-16 0 -12.0778475 0 -1.40758848 1</Transform>
+    <Positions>-49.8815269 -52.6136971 36.7942047 -23.771513 -58.100193 36.7942047 -53.36227 -27.11188 36.7942047 57.82827 58.27031 25.4894485 -49.8815269 -52.6136971 10.0978069 -23.771513 -58.100193 10.0977983 -53.36227 -27.11188 10.0977983 57.82827 58.27031 21.4025745</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 6 12 1 1 13 6 16 15 14 14 17 16 19 5 18 18 20 19</Indices>
+        <Vertices>
+          <PositionIndices>0 1 3 2 4 6 7 5 0 4 5 1 5 3 3 7 6 2 2 4 0</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-0.617198944 -0.5739135 0.5382273 0.34641853 -0.781544566 0.518827736 0.246277288 0.252757 0.9356609 -0.7844163 0.359134734 0.5056809 -0.617199 -0.5739136 -0.5382274 -0.7844163 0.3591348 -0.505681038 0.246277362 0.252757072 -0.9356609 0.3464186 -0.7815445 -0.5188278 -0.617198944 -0.5739135 0.5382273 -0.617199 -0.5739136 -0.5382274 0.3464186 -0.7815445 -0.5188278 0.34641853 -0.781544566 0.518827736 0.3464186 -0.7815445 -0.5188278 0.246277288 0.252757 0.9356609 0.246277288 0.252757 0.9356609 0.246277362 0.252757072 -0.9356609 -0.7844163 0.3591348 -0.505681038 -0.7844163 0.359134734 0.5056809 -0.7844163 0.359134734 0.5056809 -0.617199 -0.5739136 -0.5382274 -0.617198944 -0.573913455 0.5382273</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 1 1 0 1 1</VertexChannel>
+            <VertexChannel Name="Color0" ElementType="Framework:Vector4">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name></Name>
+      <Identity>
+        <SourceFilename>C:\Users\Chris\Documents\GitHub\Gp3Coursework\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\Models\BulletAttack.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="Effect">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Trait Data="..\..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Lambert.dgsl" Desc="" Flags="9240" Id="Effect" Name="Effect" Type="9" Vis="1" xmlns="Trait" /&gt;</Data>
+        <Data Key="MaterialAmbient" Type="Framework:Vector4">0 0 0 0</Data>
+        <Data Key="MaterialDiffuse" Type="Framework:Vector4">1 1 1 1</Data>
+        <Data Key="Texture1">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Trait Data="" Desc="" Flags="8200" Id="Texture1" Name="Texture1" Type="9" Vis="4" xmlns="Trait" /&gt;</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

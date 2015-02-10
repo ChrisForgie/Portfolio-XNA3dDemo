@@ -1,0 +1,6 @@
+C:\Users\Chris\Documents\XNA-PortfolioPiece\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\XNA-3dDemo.exe
+C:\Users\Chris\Documents\XNA-PortfolioPiece\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\XNA-3dDemo.pdb
+C:\Users\Chris\Documents\XNA-PortfolioPiece\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Documents\XNA-PortfolioPiece\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\XNA-3dDemo.exe
+C:\Users\Chris\Documents\XNA-PortfolioPiece\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\XNA-3dDemo.pdb
+C:\Users\Chris\Documents\XNA-PortfolioPiece\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\XNA-3dDemo.csprojResolveAssemblyReference.cache
