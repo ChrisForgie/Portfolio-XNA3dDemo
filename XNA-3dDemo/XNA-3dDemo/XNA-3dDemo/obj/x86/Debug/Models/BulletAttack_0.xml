@@ -3,7 +3,7 @@
   <Asset Type="Graphics:MeshContent">
     <Name>Box001</Name>
     <Identity>
-      <SourceFilename>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\Models\BulletAttack.FBX</SourceFilename>
+      <SourceFilename>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\Models\BulletAttack.FBX</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>2.54 0 0 0 0 1.55530138E-16 -2.54 0 0 2.54 1.55530138E-16 0 -12.0778475 0 -1.40758848 1</Transform>
@@ -27,7 +27,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name></Name>
       <Identity>
-        <SourceFilename>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\Models\BulletAttack.FBX</SourceFilename>
+        <SourceFilename>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\Models\BulletAttack.FBX</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

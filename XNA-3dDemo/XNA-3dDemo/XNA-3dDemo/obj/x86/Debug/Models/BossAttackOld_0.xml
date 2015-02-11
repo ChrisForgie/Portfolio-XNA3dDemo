@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>blend_root</Name>
     <Identity>
-      <SourceFilename>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\Models\BossAttackOld.fbx</SourceFilename>
+      <SourceFilename>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\Models\BossAttackOld.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>

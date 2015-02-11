@@ -1,0 +1,2 @@
+C:\Users\Chris\Documents\XNA-PortfolioPiece\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\obj\x86\Debug\XNA-3dDemo.contentprojResolveAssemblyReference.cache
+Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\obj\x86\Debug\XNA-3dDemo.contentprojResolveAssemblyReference.cache

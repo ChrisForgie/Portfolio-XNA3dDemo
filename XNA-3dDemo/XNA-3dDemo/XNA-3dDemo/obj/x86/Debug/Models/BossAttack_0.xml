@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>RootNode</Name>
     <Identity>
-      <SourceFilename>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\Models\BossAttack.fbx</SourceFilename>
+      <SourceFilename>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\Models\BossAttack.fbx</SourceFilename>
       <SourceTool>FbxImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -32,7 +32,7 @@
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Name>Material</Name>
       <Identity>
-        <SourceFilename>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\Models\BossAttack.fbx</SourceFilename>
+        <SourceFilename>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\Models\BossAttack.fbx</SourceFilename>
         <SourceTool>FbxImporter</SourceTool>
       </Identity>
       <OpaqueData>

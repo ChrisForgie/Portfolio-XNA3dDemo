@@ -32,6 +32,7 @@ Content\Models\EnemyModel.xnb
 Content\Models\Cuboid.xnb
 Content\Models\BulletAttack.xnb
 Content\Models\ExitDoor.xnb
+Content\Models\BossAttackOld.xnb
 Content\Models\BossAttack.xnb
 Content\Other\GameFont.xnb
 Content\Sounds\BossAttackWav.xnb
@@ -39,4 +40,3 @@ Content\Sounds\HeroAttackWav.xnb
 Content\Sounds\ZLA_TurtleRock.xnb
 Content\Sounds\ZLA_TurtleRock.wma
 Content\Models\CharModel.fbm\Rumbo TEX_0.xnb
-Content\Models\BossAttackOld.xnb

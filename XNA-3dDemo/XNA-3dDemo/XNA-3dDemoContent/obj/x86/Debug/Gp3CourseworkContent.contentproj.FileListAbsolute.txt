@@ -1,4 +1,0 @@
-E:\Gp3Coursework(Final)\Gp3Coursework\Gp3CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Chris\Documents\GP3\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Chris\Documents\GitHub\Gp3Coursework\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\obj\x86\Debug\Gp3CourseworkContent.contentprojResolveAssemblyReference.cache

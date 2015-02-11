@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\UndeadYeti.xnb</Output>
-      <Time>2015-01-06T12:22:13.269+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\UndeadYeti.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\HeroChar.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\HeroChar.xnb</Output>
-      <Time>2015-01-06T12:22:13.095+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\HeroChar.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\GroundTexture.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\GroundTexture.xnb</Output>
-      <Time>2015-01-06T12:22:13.052+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\GroundTexture.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\CaveWall.jpg</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\CaveWall.xnb</Output>
-      <Time>2015-01-06T12:22:13.017+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\CaveWall.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\HealthBar.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\HealthBar.xnb</Output>
-      <Time>2015-01-06T12:22:13.062+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\HealthBar.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\HealthBarOutline.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\HealthBarOutline.xnb</Output>
-      <Time>2015-01-06T12:22:13.071+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\HealthBarOutline.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\Skeleton.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\Skeleton.xnb</Output>
-      <Time>2015-01-06T12:22:13.182+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\Skeleton.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\HeroAttack.jpg</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\HeroAttack.xnb</Output>
-      <Time>2015-01-06T12:22:13.084+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\HeroAttack.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\DoorTexture.jpg</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\DoorTexture.xnb</Output>
-      <Time>2015-01-06T12:22:13.029+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\DoorTexture.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\Mummy.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\Mummy.xnb</Output>
-      <Time>2015-01-06T12:22:13.125+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\Mummy.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\PumpkinMan.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\PumpkinMan.xnb</Output>
-      <Time>2015-01-06T12:22:13.143+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\PumpkinMan.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\Robot.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\Robot.xnb</Output>
-      <Time>2015-01-06T12:22:13.156+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\Robot.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\SwampMonster.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\SwampMonster.xnb</Output>
-      <Time>2015-01-06T12:22:13.204+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\SwampMonster.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\Zombie.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\Zombie.xnb</Output>
-      <Time>2015-01-06T12:22:13.282+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\Zombie.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\Elf.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\Elf.xnb</Output>
-      <Time>2015-01-06T12:22:13.109+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\Elf.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Enemies\Santa.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Enemies\Santa.xnb</Output>
-      <Time>2015-01-06T12:22:13.168+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Enemies\Santa.xnb</Output>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuButton1.png</Source>
@@ -151,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButton1.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButton1.xnb</Output>
       <Time>2015-01-13T16:22:17+00:00</Time>
     </Item>
     <Item>
@@ -160,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButton1_Hover.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButton1_Hover.xnb</Output>
       <Time>2015-01-13T16:22:54+00:00</Time>
     </Item>
     <Item>
@@ -169,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButton2.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButton2.xnb</Output>
       <Time>2015-01-13T16:24:33+00:00</Time>
     </Item>
     <Item>
@@ -178,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButton2_Hover.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButton2_Hover.xnb</Output>
       <Time>2015-01-13T16:24:48+00:00</Time>
     </Item>
     <Item>
@@ -187,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButton3.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButton3.xnb</Output>
       <Time>2015-01-13T16:25:26+00:00</Time>
     </Item>
     <Item>
@@ -196,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButton3_Hover.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButton3_Hover.xnb</Output>
       <Time>2015-01-13T16:25:39+00:00</Time>
     </Item>
     <Item>
@@ -205,7 +205,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\NewMenuScreen.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\NewMenuScreen.xnb</Output>
       <Time>2015-01-13T16:20:45+00:00</Time>
     </Item>
     <Item>
@@ -214,7 +214,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\ControlsScreen.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\ControlsScreen.xnb</Output>
       <Time>2015-01-14T15:50:01+00:00</Time>
     </Item>
     <Item>
@@ -223,7 +223,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButtonBack.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButtonBack.xnb</Output>
       <Time>2015-01-14T15:37:49+00:00</Time>
     </Item>
     <Item>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButtonMainMenu.xnb</Output>
-      <Time>2015-01-21T14:43:35.0408+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButtonMainMenu.xnb</Output>
+      <Time>2015-01-21T14:43:35+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\MenuButtonMainMenu_Hover.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\MenuButtonMainMenu_Hover.xnb</Output>
-      <Time>2015-01-21T14:43:35.0408+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\MenuButtonMainMenu_Hover.xnb</Output>
+      <Time>2015-01-21T14:43:35+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\NewGameOverScreen.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\NewGameOverScreen.xnb</Output>
-      <Time>2015-01-21T14:43:35.0564+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\NewGameOverScreen.xnb</Output>
+      <Time>2015-01-21T14:43:35+00:00</Time>
     </Item>
     <Item>
       <Source>Textures\Menu\FinalWinScreen.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Textures\Menu\FinalWinScreen.xnb</Output>
-      <Time>2015-01-27T14:46:01.7274+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Textures\Menu\FinalWinScreen.xnb</Output>
+      <Time>2015-01-27T14:46:01+00:00</Time>
     </Item>
     <Item>
       <Source>Models\CharModel.FBX</Source>
@@ -268,13 +268,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\CharModel.xnb</Output>
-      <Time>2015-01-06T12:22:12.844+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\CharModel.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
       <Dependency>
-        <Key>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\CharModel_0.xml</Key>
-        <Value>2015-01-28T16:12:58.8546+00:00</Value>
+        <Key>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\CharModel_0.xml</Key>
+        <Value>2015-02-11T11:29:24+00:00</Value>
       </Dependency>
-      <Request>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\CharModel.fbm\Rumbo TEX_0.xnb</Request>
+      <Request>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\CharModel.fbm\Rumbo TEX_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\EnemyModel.FBX</Source>
@@ -282,13 +282,13 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\EnemyModel.xnb</Output>
-      <Time>2015-01-06T12:22:12.865+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\EnemyModel.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
       <Dependency>
-        <Key>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\EnemyModel_0.xml</Key>
-        <Value>2015-01-28T16:13:00.7584+00:00</Value>
+        <Key>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\EnemyModel_0.xml</Key>
+        <Value>2015-02-11T11:29:26+00:00</Value>
       </Dependency>
-      <Request>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\CharModel.fbm\Rumbo TEX_0.xnb</Request>
+      <Request>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\CharModel.fbm\Rumbo TEX_0.xnb</Request>
     </Item>
     <Item>
       <Source>Models\Cuboid.FBX</Source>
@@ -296,11 +296,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\Cuboid.xnb</Output>
-      <Time>2015-01-06T12:22:12.855+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\Cuboid.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
       <Dependency>
-        <Key>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\Cuboid_0.xml</Key>
-        <Value>2015-01-28T16:13:00.8024+00:00</Value>
+        <Key>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\Cuboid_0.xml</Key>
+        <Value>2015-02-11T11:29:26+00:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -309,11 +309,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\BulletAttack.xnb</Output>
-      <Time>2015-01-06T12:22:12.833+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\BulletAttack.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
       <Dependency>
-        <Key>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\BulletAttack_0.xml</Key>
-        <Value>2015-01-28T16:13:00.8354+00:00</Value>
+        <Key>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\BulletAttack_0.xml</Key>
+        <Value>2015-02-11T11:29:26+00:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -322,11 +322,24 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\ExitDoor.xnb</Output>
-      <Time>2015-01-06T12:22:12.875+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\ExitDoor.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
       <Dependency>
-        <Key>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\ExitDoor_0.xml</Key>
-        <Value>2015-01-28T16:13:00.8664+00:00</Value>
+        <Key>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\ExitDoor_0.xml</Key>
+        <Value>2015-02-11T11:29:26+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\BossAttackOld.fbx</Source>
+      <Name>Models\BossAttackOld</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\BossAttackOld.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
+      <Dependency>
+        <Key>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\BossAttackOld_0.xml</Key>
+        <Value>2015-02-11T11:29:26+00:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -335,11 +348,11 @@
       <Importer>FbxImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\BossAttack.xnb</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\BossAttack.xnb</Output>
       <Time>2015-01-29T14:54:46+00:00</Time>
       <Dependency>
-        <Key>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\BossAttack_0.xml</Key>
-        <Value>2015-01-29T14:55:28.838+00:00</Value>
+        <Key>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\BossAttack_0.xml</Key>
+        <Value>2015-02-11T11:29:26+00:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -348,8 +361,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Other\GameFont.xnb</Output>
-      <Time>2015-01-06T12:22:12.911+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Other\GameFont.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Sounds\BossAttackWav.wav</Source>
@@ -357,8 +370,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Sounds\BossAttackWav.xnb</Output>
-      <Time>2015-01-06T12:22:12.924+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Sounds\BossAttackWav.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Sounds\HeroAttackWav.wav</Source>
@@ -366,8 +379,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Sounds\HeroAttackWav.xnb</Output>
-      <Time>2015-01-06T12:22:12.935+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Sounds\HeroAttackWav.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Sounds\ZLA_TurtleRock.mp3</Source>
@@ -375,16 +388,16 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Sounds\ZLA_TurtleRock.xnb</Output>
-      <Extra>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Sounds\ZLA_TurtleRock.wma</Extra>
-      <Time>2015-01-06T12:22:13.001+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Sounds\ZLA_TurtleRock.xnb</Output>
+      <Extra>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Sounds\ZLA_TurtleRock.wma</Extra>
+      <Time>2015-01-06T12:22:13+00:00</Time>
     </Item>
     <Item>
       <Source>Models\CharModel.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\CharModel_0.xml</Output>
-      <Time>2015-01-06T12:22:12.844+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\CharModel_0.xml</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Models\CharModel.fbm\Rumbo TEX.png</Source>
@@ -399,63 +412,50 @@
         <Data Key="PremultiplyAlpha" Type="bool">true</Data>
       </Parameters>
       <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\CharModel.fbm\Rumbo TEX_0.xnb</Output>
-      <Time>2015-01-06T12:22:12.898+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\Models\CharModel.fbm\Rumbo TEX_0.xnb</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Models\EnemyModel.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\EnemyModel_0.xml</Output>
-      <Time>2015-01-06T12:22:12.865+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\EnemyModel_0.xml</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Models\Cuboid.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\Cuboid_0.xml</Output>
-      <Time>2015-01-06T12:22:12.855+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\Cuboid_0.xml</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Models\BulletAttack.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\BulletAttack_0.xml</Output>
-      <Time>2015-01-06T12:22:12.833+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\BulletAttack_0.xml</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Models\ExitDoor.FBX</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\ExitDoor_0.xml</Output>
-      <Time>2015-01-06T12:22:12.875+00:00</Time>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\ExitDoor_0.xml</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BossAttackOld.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\BossAttackOld_0.xml</Output>
+      <Time>2015-01-06T12:22:12+00:00</Time>
     </Item>
     <Item>
       <Source>Models\BossAttack.fbx</Source>
       <Importer>FbxImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\BossAttack_0.xml</Output>
+      <Output>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\Models\BossAttack_0.xml</Output>
       <Time>2015-01-29T14:54:46+00:00</Time>
-    </Item>
-    <Item>
-      <Source>Models\BossAttackOld.fbx</Source>
-      <Name>Models\BossAttackOld</Name>
-      <Importer>FbxImporter</Importer>
-      <Processor>ModelProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\Models\BossAttackOld.xnb</Output>
-      <Time>2015-01-06T12:22:12.824+00:00</Time>
-      <Dependency>
-        <Key>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\BossAttackOld_0.xml</Key>
-        <Value>2015-01-29T14:45:46.4556+00:00</Value>
-      </Dependency>
-    </Item>
-    <Item>
-      <Source>Models\BossAttackOld.fbx</Source>
-      <Importer>FbxImporter</Importer>
-      <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\Models\BossAttackOld_0.xml</Output>
-      <Time>2015-01-06T12:22:12.824+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -464,10 +464,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3CourseworkContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Chris\Documents\Gp3Coursework-master\Gp3Coursework\Gp3Coursework\Gp3Coursework\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemoContent\</RootDirectory>
+      <LoggerRootDirectory>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\</LoggerRootDirectory>
+      <IntermediateDirectory>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>Z:\Users\Chris\GitHub\Portfolio-XNA3dDemo\XNA-3dDemo\XNA-3dDemo\XNA-3dDemo\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
